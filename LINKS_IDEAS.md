@@ -6,7 +6,7 @@
 
 ### Data tools etc
 1. https://github.com/michalczaplinski/pitchfork - pitchfork review scraper lib
-2. https://github.com/michalczaplinski/pitchfork - troche jak stworzony zostal ten wrapper do geniusa
+2. zly link xd, pewnie z john w miller - troche jak stworzony zostal ten wrapper do geniusa
 3. https://datasetsearch.research.google.com/
 4. https://huggingface.co/docs/datasets/index
 5. https://www.kaggle.com/datasets
