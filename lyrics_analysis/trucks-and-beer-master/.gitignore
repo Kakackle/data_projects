@@ -1,0 +1,23 @@
+# Genius API
+lyricsgenius
+*.ini
+
+# Data
+lyrics/
+*.json
+
+# Media
+figures
+*.png
+*.jpg
+
+# Misc
+notes.md
+*.txt
+.cache-johnwmillr
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
