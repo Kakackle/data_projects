@@ -7,6 +7,11 @@
 
 8. TODO: poki co zliczam ile wystapien na utwory, ale moze lepiej by zliczac jakies procenty, by miec staly zakres 0 - 100, by skale sie nie rozjedzaly, albo nawet zeby mozna zredukowac do 0 - 10 albo 0 - 1 itd
 
+9. TODO: wieksze
+poki co przeglam tak sobie arbitralnie wybranych artystow
+
+moze moglbym sprecyzowac jakies dokladniejsze zakresy badania, np dla rapu i popu zebrac artystow z przestrzeni lat, tzn np 10 z lat 90, 10 00 itd az do teraz i porownywac te wszystkie statystyki, w tym np. czy zwiekszyla sie ilosc proudcentow, pisarzy, ficzerow itd
+
 
 1. ~~w rap brakuje nam ghostface killah i black thought - moze jakies problemy, bo brakowalo jakichs danych i scraper odmowil - sprawdz jeszcze raz a jak nie to: a tribe called quest, mos def~~
 2. ~~usuwanie interpunkcji~~

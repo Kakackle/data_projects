@@ -148,7 +148,7 @@
        "header_image_url": "https://images.genius.com/avatars/medium/981605b56878ef16a812df453300d0fc",
        "human_readable_role_for_display": "Editor",
        "id": 3492882,
-       "iq": 3525346,
+       "iq": 3527402,
        "login": "SmashBeezy",
        "name": "SmashBeezy",
        "role_for_display": "editor",
@@ -202,7 +202,7 @@
        "header_image_url": "https://images.genius.com/avatars/medium/f1ba6e6a384117b22ce0542051b64e60",
        "human_readable_role_for_display": "Editor",
        "id": 923739,
-       "iq": 103185,
+       "iq": 103193,
        "login": "theKuzG",
        "name": "The Kuz Giacometti",
        "role_for_display": "editor",
@@ -256,7 +256,7 @@
        "header_image_url": "https://filepicker-images.genius.com/1aIdRVzqS3uoPS3vLf0w_ChXXEej.jpg",
        "human_readable_role_for_display": "Editor",
        "id": 3063809,
-       "iq": 20502,
+       "iq": 20503,
        "login": "YungMikado",
        "name": "Mikado",
        "role_for_display": "editor",
@@ -310,7 +310,7 @@
        "header_image_url": "https://images.rapgenius.com/avatars/medium/4955c7795dbe34cdb329280940bf8639",
        "human_readable_role_for_display": "Contributor",
        "id": 116340,
-       "iq": 381790,
+       "iq": 381820,
        "login": "palacelight",
        "name": "Reuben Tasker",
        "role_for_display": "contributor",
@@ -364,7 +364,7 @@
        "header_image_url": "https://images.rapgenius.com/avatars/medium/e6d5dbb49dbaf8082ea5bda90394922d",
        "human_readable_role_for_display": "Editor",
        "id": 2112137,
-       "iq": 65672,
+       "iq": 65716,
        "login": "phantom_spaceman",
        "name": "phantom_spaceman",
        "role_for_display": "editor",
@@ -472,7 +472,7 @@
        "header_image_url": "https://filepicker-images.genius.com/jCDB4nmQmOjZUOYTze0J_image.jpeg",
        "human_readable_role_for_display": "Contributor",
        "id": 3013914,
-       "iq": 17947,
+       "iq": 17949,
        "login": "MarriedToTheGame",
        "name": "MarriedToTheGame",
        "role_for_display": "contributor",
@@ -526,7 +526,7 @@
        "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288296_15733_justice.png",
        "human_readable_role_for_display": "Editor",
        "id": 15733,
-       "iq": 81742,
+       "iq": 81744,
        "login": "moshitup",
        "name": "moshitup",
        "role_for_display": "editor",
@@ -580,7 +580,7 @@
        "header_image_url": "https://images.genius.com/5a7798fcc97e18adbf7eda86ff810dcd.1000x750x1.jpg",
        "human_readable_role_for_display": "Editor",
        "id": 1665376,
-       "iq": 914175,
+       "iq": 914177,
        "login": "poeticimmunity",
        "name": "\u200bpoeticimmunity",
        "role_for_display": "editor",
@@ -742,7 +742,7 @@
        "header_image_url": "https://filepicker-images.genius.com/ls1tlb99ir9",
        "human_readable_role_for_display": "Contributor",
        "id": 4424691,
-       "iq": 121849,
+       "iq": 121853,
        "login": "3-3-3",
        "name": "3-3-3",
        "role_for_display": "contributor",
@@ -797,7 +797,7 @@
     "unreviewed_annotations": 1,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 552782
+    "pageviews": 552866
    },
    "title": "Electric Relaxation",
    "title_with_featured": "Electric Relaxation",
@@ -1211,7 +1211,7 @@
          "header_image_url": "https://images.genius.com/avatars/medium/981605b56878ef16a812df453300d0fc",
          "human_readable_role_for_display": "Editor",
          "id": 3492882,
-         "iq": 3525346,
+         "iq": 3527402,
          "login": "SmashBeezy",
          "name": "SmashBeezy",
          "role_for_display": "editor",
@@ -1265,7 +1265,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/FPUgkjhRQyqsg9SfDfhx.jpg",
          "human_readable_role_for_display": "Contributor",
          "id": 7,
-         "iq": 539414,
+         "iq": 539435,
          "login": "Maboo",
          "name": "Maboo",
          "role_for_display": "contributor",
@@ -1319,7 +1319,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288296_15733_justice.png",
          "human_readable_role_for_display": "Editor",
          "id": 15733,
-         "iq": 81742,
+         "iq": 81744,
          "login": "moshitup",
          "name": "moshitup",
          "role_for_display": "editor",
@@ -1373,7 +1373,7 @@
          "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
          "human_readable_role_for_display": "Staff",
          "id": 54639,
-         "iq": 3060861,
+         "iq": 3061104,
          "login": "WriteNProppa",
          "name": "WriteNProppa",
          "role_for_display": "staff",
@@ -1431,7 +1431,7 @@
     "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
     "human_readable_role_for_display": "Staff",
     "id": 54639,
-    "iq": 3060861,
+    "iq": 3061104,
     "login": "WriteNProppa",
     "name": "WriteNProppa",
     "role_for_display": "staff",
@@ -1481,7 +1481,7 @@
     "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
     "human_readable_role_for_display": "Staff",
     "id": 54639,
-    "iq": 3060861,
+    "iq": 3061104,
     "login": "WriteNProppa",
     "name": "WriteNProppa",
     "role_for_display": "staff",
@@ -1963,7 +1963,7 @@
        "stats": {
         "unreviewed_annotations": 10,
         "hot": false,
-        "pageviews": 55183
+        "pageviews": 55197
        },
        "title": "Y.O.U.",
        "title_with_featured": "Y.O.U.",
@@ -2001,7 +2001,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 5411
+        "pageviews": 5412
        },
        "title": "Clin D\u2019Oeil",
        "title_with_featured": "Clin D\u2019Oeil",
@@ -2126,7 +2126,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 10783
+        "pageviews": 10796
        },
        "title": "Intro-Lude",
        "title_with_featured": "Intro-Lude (Ft.\u00a0Phife\u00a0Dawg)",
@@ -2180,7 +2180,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 1410263
+        "pageviews": 1410416
        },
        "title": "Forbidden Fruit",
        "title_with_featured": "Forbidden Fruit (Ft.\u00a0Kendrick\u00a0Lamar)",
@@ -2195,7 +2195,7 @@
          "is_verified": true,
          "name": "Kendrick Lamar",
          "url": "https://genius.com/artists/Kendrick-lamar",
-         "iq": 56866
+         "iq": 56870
         }
        ],
        "primary_artist": {
@@ -2423,7 +2423,7 @@
        "stats": {
         "unreviewed_annotations": 5,
         "hot": false,
-        "pageviews": 139569
+        "pageviews": 139570
        },
        "title": "Relaxation",
        "title_with_featured": "Relaxation",
@@ -2466,7 +2466,7 @@
        "stats": {
         "unreviewed_annotations": 6,
         "hot": false,
-        "pageviews": 170160
+        "pageviews": 170168
        },
        "title": "135",
        "title_with_featured": "135",
@@ -2991,7 +2991,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 44978
+        "pageviews": 44984
        },
        "title": "Digital Girl (Remix)",
        "title_with_featured": "Digital Girl (Remix) (Ft.\u00a0Drake & Kanye\u00a0West)",
@@ -3054,7 +3054,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 14471
+        "pageviews": 14474
        },
        "title": "Digital Girl (Remix 2)",
        "title_with_featured": "Digital Girl (Remix 2) (Ft.\u00a0Drake, Kanye\u00a0West & The-Dream)",
@@ -3169,7 +3169,7 @@
        "stats": {
         "unreviewed_annotations": 3,
         "hot": false,
-        "pageviews": 101912
+        "pageviews": 101918
        },
        "title": "Borderline (An Ode to Self Care)",
        "title_with_featured": "Borderline (An Ode to Self Care) (Ft.\u00a0Q-Tip)",
@@ -3382,7 +3382,7 @@
        "stats": {
         "unreviewed_annotations": 5,
         "hot": false,
-        "pageviews": 240726
+        "pageviews": 240748
        },
        "title": "Snakes",
        "title_with_featured": "Snakes (Ft.\u00a0T\u2019nah)",
@@ -3409,7 +3409,7 @@
         "is_verified": true,
         "name": "Joey Bada$$",
         "url": "https://genius.com/artists/Joey-bada",
-        "iq": 28439
+        "iq": 28441
        }
       },
       {
@@ -3437,7 +3437,7 @@
        "stats": {
         "unreviewed_annotations": 4,
         "hot": false,
-        "pageviews": 15042
+        "pageviews": 15050
        },
        "title": "What\u2019Chu Like",
        "title_with_featured": "What'Chu Like (Ft.\u00a0Tyrese)",
@@ -3735,7 +3735,7 @@
        "stats": {
         "unreviewed_annotations": 3,
         "hot": false,
-        "pageviews": 9797
+        "pageviews": 9800
        },
        "title": "03 Electic Relaxation",
        "title_with_featured": "03 Electic Relaxation (Ft.\u00a0Consequence)",
@@ -3863,7 +3863,7 @@
     "unreviewed_annotations": 2,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 543961
+    "pageviews": 543990
    },
    "title": "We the People....",
    "title_with_featured": "We the People....",
@@ -4452,7 +4452,7 @@
          "header_image_url": "https://filepicker-images.genius.com/TxpHkwUwRVq1fgMAiB4l_808s%20wallpaper%202.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 3483553,
-         "iq": 91508,
+         "iq": 91510,
          "login": "s_connoisseur",
          "name": "\u200bs_connoisseur",
          "role_for_display": "editor",
@@ -4668,7 +4668,7 @@
          "header_image_url": "https://images.genius.com/7fb2bf040b5378478cc5ff81f762ba3e.1000x613x1.jpg",
          "human_readable_role_for_display": "Staff",
          "id": 271096,
-         "iq": 490528,
+         "iq": 490562,
          "login": "Empath",
          "name": "Colby Handy",
          "role_for_display": "staff",
@@ -4761,7 +4761,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 48325
+        "pageviews": 48344
        },
        "title": "Behind the Wall of Sleep",
        "title_with_featured": "Behind the Wall of Sleep",
@@ -5247,7 +5247,7 @@
     "unreviewed_annotations": 6,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 508665
+    "pageviews": 508713
    },
    "title": "Scenario",
    "title_with_featured": "Scenario (Ft.\u00a0Leaders\u00a0of the New School)",
@@ -5682,7 +5682,7 @@
          "header_image_url": "https://images.genius.com/50e97f47972ef3bc792015763042c3a8.1000x667x1.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 3831017,
-         "iq": 369642,
+         "iq": 369667,
          "login": "GnarlingtonTX",
          "name": "GnarlingtonTX",
          "role_for_display": "editor",
@@ -5790,7 +5790,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/zmkfqkztReGZ0zuiuLXp.png",
          "human_readable_role_for_display": "Editor",
          "id": 150910,
-         "iq": 158122,
+         "iq": 158125,
          "login": "Spinelli",
          "name": "Spinelli",
          "role_for_display": "editor",
@@ -5844,7 +5844,7 @@
          "header_image_url": "https://images.rapgenius.com/avatars/medium/c63571eb1a6234a5bffb574474b723b3",
          "human_readable_role_for_display": "Contributor",
          "id": 18461,
-         "iq": 36200,
+         "iq": 36201,
          "login": "OGMyrtleBeach",
          "name": "OGMyrtleBeach",
          "role_for_display": "contributor",
@@ -5898,7 +5898,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288334_11899_11899_Public%20Enemy_RG.jpg",
          "human_readable_role_for_display": "Contributor",
          "id": 11899,
-         "iq": 36672,
+         "iq": 36673,
          "login": "RimmerGawd",
          "name": "RimmerGawd",
          "role_for_display": "contributor",
@@ -5952,7 +5952,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288296_15733_justice.png",
          "human_readable_role_for_display": "Editor",
          "id": 15733,
-         "iq": 81742,
+         "iq": 81744,
          "login": "moshitup",
          "name": "moshitup",
          "role_for_display": "editor",
@@ -6087,7 +6087,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 10891
+        "pageviews": 10892
        },
        "title": "Little Miss Lover",
        "title_with_featured": "Little Miss Lover",
@@ -6136,7 +6136,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 5344
+        "pageviews": 5345
        },
        "title": "The I.N.C. Ride",
        "title_with_featured": "The I.N.C. Ride",
@@ -6178,7 +6178,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 6116
+        "pageviews": 6118
        },
        "title": "Nutshell",
        "title_with_featured": "Nutshell",
@@ -6263,7 +6263,7 @@
        "stats": {
         "unreviewed_annotations": 3,
         "hot": false,
-        "pageviews": 16447
+        "pageviews": 16450
        },
        "title": "Rock It",
        "title_with_featured": "Rock It",
@@ -6305,7 +6305,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 7416
+        "pageviews": 7419
        },
        "title": "Powaful Impak!",
        "title_with_featured": "Powaful Impak!",
@@ -6399,7 +6399,7 @@
        "stats": {
         "unreviewed_annotations": 33,
         "hot": false,
-        "pageviews": 12695
+        "pageviews": 12723
        },
        "title": "SCENARIO FREESTYLE",
        "title_with_featured": "SCENARIO FREESTYLE",
@@ -6675,7 +6675,7 @@
        "stats": {
         "unreviewed_annotations": 8,
         "hot": false,
-        "pageviews": 9211
+        "pageviews": 9213
        },
        "title": "Flow Joe",
        "title_with_featured": "Flow Joe",
@@ -6717,7 +6717,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 1187646
+        "pageviews": 1188085
        },
        "title": "Criminal",
        "title_with_featured": "Criminal",
@@ -6732,7 +6732,7 @@
         "is_verified": true,
         "name": "Eminem",
         "url": "https://genius.com/artists/Eminem",
-        "iq": 265051
+        "iq": 265115
        }
       },
       {
@@ -7498,7 +7498,7 @@
        "stats": {
         "unreviewed_annotations": 11,
         "hot": false,
-        "pageviews": 29764
+        "pageviews": 29767
        },
        "title": "Take Hip-Hop Back",
        "title_with_featured": "Take Hip-Hop Back (Ft.\u00a0Immortal\u00a0Technique & Vinnie\u00a0Paz)",
@@ -7616,7 +7616,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 10195
+        "pageviews": 10196
        },
        "title": "Dance in the Reign",
        "title_with_featured": "Dance in the Reign (Ft.\u00a0Sy\u00a0Smith)",
@@ -7952,7 +7952,7 @@
        "stats": {
         "unreviewed_annotations": 5,
         "hot": false,
-        "pageviews": 147348
+        "pageviews": 147369
        },
        "title": "EdEddnEddy",
        "title_with_featured": "EdEddnEddy",
@@ -8121,7 +8121,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 15186
+        "pageviews": 15189
        },
        "title": "More Bounce to the Ounce",
        "title_with_featured": "More Bounce to the Ounce",
@@ -8802,7 +8802,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 62877
+        "pageviews": 62879
        },
        "title": "Now They Know",
        "title_with_featured": "Now They Know (Ft.\u00a0Andy\u00a0Mineo, Derek\u00a0Minor, KB, Lecrae & Tedashii)",
@@ -8900,7 +8900,7 @@
        "stats": {
         "unreviewed_annotations": 3,
         "hot": false,
-        "pageviews": 6727
+        "pageviews": 6728
        },
        "title": "Clock Strikes (Remix)",
        "title_with_featured": "Clock Strikes (Remix)",
@@ -9036,7 +9036,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 9089
+        "pageviews": 9091
        },
        "title": "Dungeon Dragon",
        "title_with_featured": "Dungeon Dragon",
@@ -9092,7 +9092,7 @@
          "is_verified": true,
          "name": "Kendrick Lamar",
          "url": "https://genius.com/artists/Kendrick-lamar",
-         "iq": 56866
+         "iq": 56870
         },
         {
          "api_path": "/artists/446",
@@ -9103,7 +9103,7 @@
          "is_verified": true,
          "name": "Miguel",
          "url": "https://genius.com/artists/Miguel",
-         "iq": 5410
+         "iq": 5412
         }
        ],
        "primary_artist": {
@@ -9143,7 +9143,7 @@
        "stats": {
         "unreviewed_annotations": 3,
         "hot": false,
-        "pageviews": 58824
+        "pageviews": 58839
        },
        "title": "Bomb Intro / Pass That Dutch",
        "title_with_featured": "Bomb Intro / Pass That Dutch",
@@ -9184,8 +9184,9 @@
        "song_art_image_url": "https://images.genius.com/39b44eb872a9aa6e44312f1c4a6dd7aa.500x426x1.jpg",
        "stats": {
         "unreviewed_annotations": 4,
+        "concurrents": 2,
         "hot": false,
-        "pageviews": 453261
+        "pageviews": 453424
        },
        "title": "One Week",
        "title_with_featured": "One Week",
@@ -9227,7 +9228,7 @@
        "stats": {
         "unreviewed_annotations": 10,
         "hot": false,
-        "pageviews": 25181
+        "pageviews": 25182
        },
        "title": "Who\u2019s that? Brooown!",
        "title_with_featured": "Who's that? Brooown!",
@@ -9269,7 +9270,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 8381
+        "pageviews": 8385
        },
        "title": "As I Come Back",
        "title_with_featured": "As I Come Back",
@@ -9312,7 +9313,7 @@
        "stats": {
         "unreviewed_annotations": 4,
         "hot": false,
-        "pageviews": 19852
+        "pageviews": 19858
        },
        "title": "Pass the Courvoisier",
        "title_with_featured": "Pass the Courvoisier (Ft.\u00a0Diddy)",
@@ -9367,7 +9368,7 @@
        "stats": {
         "unreviewed_annotations": 5,
         "hot": false,
-        "pageviews": 1358266
+        "pageviews": 1358331
        },
        "title": "Love Game",
        "title_with_featured": "Love Game (Ft.\u00a0Kendrick\u00a0Lamar)",
@@ -9382,7 +9383,7 @@
          "is_verified": true,
          "name": "Kendrick Lamar",
          "url": "https://genius.com/artists/Kendrick-lamar",
-         "iq": 56866
+         "iq": 56870
         }
        ],
        "primary_artist": {
@@ -9394,7 +9395,7 @@
         "is_verified": true,
         "name": "Eminem",
         "url": "https://genius.com/artists/Eminem",
-        "iq": 265051
+        "iq": 265115
        }
       },
       {
@@ -9422,7 +9423,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 101685
+        "pageviews": 101694
        },
        "title": "Shot Caller",
        "title_with_featured": "Shot Caller (Ft.\u00a0Charlie\u00a0Rock)",
@@ -9476,7 +9477,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 146347
+        "pageviews": 146356
        },
        "title": "Rolling Stone",
        "title_with_featured": "Rolling Stone (Ft.\u00a0Black\u00a0Hippy)",
@@ -9530,7 +9531,7 @@
        "stats": {
         "unreviewed_annotations": 11,
         "hot": false,
-        "pageviews": 94677
+        "pageviews": 94711
        },
        "title": "Roman\u2019s Revenge (Remix)",
        "title_with_featured": "Roman\u2019s Revenge (Remix) (Ft.\u00a0Lil\u00a0Wayne)",
@@ -9584,9 +9585,9 @@
        "song_art_image_url": "https://images.genius.com/44a8be97aef4cdd5114bd6cec02b2357.1000x1000x1.png",
        "stats": {
         "unreviewed_annotations": 2,
-        "concurrents": 2,
+        "concurrents": 3,
         "hot": false,
-        "pageviews": 1090255
+        "pageviews": 1090899
        },
        "title": "Roman\u2019s Revenge",
        "title_with_featured": "Roman's Revenge (Ft.\u00a0Eminem)",
@@ -9601,7 +9602,7 @@
          "is_verified": true,
          "name": "Eminem",
          "url": "https://genius.com/artists/Eminem",
-         "iq": 265051
+         "iq": 265115
         }
        ],
        "primary_artist": {
@@ -9641,7 +9642,7 @@
        "stats": {
         "unreviewed_annotations": 5,
         "hot": false,
-        "pageviews": 30970
+        "pageviews": 30982
        },
        "title": "Touch It (Remix 2.0)",
        "title_with_featured": "Touch It (Remix 2.0) (Ft.\u00a0DMX, Eminem, Lloyd\u00a0Banks, Mary\u00a0J. Blige, Missy\u00a0Elliott, Papoose & Rah\u00a0Digga)",
@@ -9677,7 +9678,7 @@
          "is_verified": true,
          "name": "Eminem",
          "url": "https://genius.com/artists/Eminem",
-         "iq": 265051
+         "iq": 265115
         },
         {
          "api_path": "/artists/358",
@@ -9824,7 +9825,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 320943
+        "pageviews": 320969
        },
        "title": "How Many Drinks? (Remix)",
        "title_with_featured": "How Many Drinks? (Remix) (Ft.\u00a0Kendrick\u00a0Lamar)",
@@ -9839,7 +9840,7 @@
          "is_verified": true,
          "name": "Kendrick Lamar",
          "url": "https://genius.com/artists/Kendrick-lamar",
-         "iq": 56866
+         "iq": 56870
         }
        ],
        "primary_artist": {
@@ -9851,7 +9852,7 @@
         "is_verified": true,
         "name": "Miguel",
         "url": "https://genius.com/artists/Miguel",
-        "iq": 5410
+        "iq": 5412
        }
       },
       {
@@ -9879,7 +9880,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 29374
+        "pageviews": 29375
        },
        "title": "Yesterday",
        "title_with_featured": "Yesterday",
@@ -9922,7 +9923,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 28601
+        "pageviews": 28603
        },
        "title": "Said N Done",
        "title_with_featured": "Said N Done (Ft.\u00a0A$AP\u00a0Rocky)",
@@ -9937,7 +9938,7 @@
          "is_verified": true,
          "name": "A$AP Rocky",
          "url": "https://genius.com/artists/A-ap-rocky",
-         "iq": 33320
+         "iq": 33322
         }
        ],
        "primary_artist": {
@@ -10031,7 +10032,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 7002
+        "pageviews": 7004
        },
        "title": "For the Nasty",
        "title_with_featured": "For the Nasty (Ft.\u00a0Busta\u00a0Rhymes)",
@@ -10086,7 +10087,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 539473
+        "pageviews": 539491
        },
        "title": "Foot Fungus",
        "title_with_featured": "Foot Fungus",
@@ -10352,7 +10353,7 @@
        "stats": {
         "unreviewed_annotations": 4,
         "hot": false,
-        "pageviews": 60375
+        "pageviews": 60382
        },
        "title": "Scenario (Remix)",
        "title_with_featured": "Scenario (Remix) (Ft.\u00a0Kid\u00a0Hood & Leaders\u00a0of the New School)",
@@ -10634,7 +10635,7 @@
     "unreviewed_annotations": 3,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 441701
+    "pageviews": 441742
    },
    "title": "Can I Kick It?",
    "title_with_featured": "Can I Kick It?",
@@ -11058,7 +11059,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288234_3674_TheLawyerheadFlag.JPG",
          "human_readable_role_for_display": "Contributor",
          "id": 3674,
-         "iq": 18426,
+         "iq": 18429,
          "login": "LawyerHead",
          "name": "LawyerHead",
          "role_for_display": "contributor",
@@ -11166,7 +11167,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288296_15733_justice.png",
          "human_readable_role_for_display": "Editor",
          "id": 15733,
-         "iq": 81742,
+         "iq": 81744,
          "login": "moshitup",
          "name": "moshitup",
          "role_for_display": "editor",
@@ -11220,7 +11221,7 @@
          "header_image_url": "https://images.genius.com/25668c4361913c59c30b2d04bf5371e1.1000x666x1.jpg",
          "human_readable_role_for_display": "Moderator",
          "id": 59324,
-         "iq": 194231,
+         "iq": 194234,
          "login": "kray",
          "name": "KleberBriz",
          "role_for_display": "moderator",
@@ -11410,7 +11411,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 404866
+        "pageviews": 404984
        },
        "title": "Walk on the Wild Side",
        "title_with_featured": "Walk on the Wild Side",
@@ -11452,7 +11453,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 8008
+        "pageviews": 8016
        },
        "title": "Sunshower",
        "title_with_featured": "Sunshower",
@@ -11625,7 +11626,7 @@
        "stats": {
         "unreviewed_annotations": 11,
         "hot": false,
-        "pageviews": 7638
+        "pageviews": 7645
        },
        "title": "The Number Song",
        "title_with_featured": "The Number Song",
@@ -11729,7 +11730,7 @@
        "stats": {
         "unreviewed_annotations": 9,
         "hot": false,
-        "pageviews": 9222
+        "pageviews": 9223
        },
        "title": "Lost at Birth",
        "title_with_featured": "Lost at Birth",
@@ -11771,7 +11772,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 20385
+        "pageviews": 20393
        },
        "title": "Like That",
        "title_with_featured": "Like That (Ft.\u00a0CeeLo\u00a0Green, John\u00a0Legend, Q-Tip & Talib\u00a0Kweli)",
@@ -11900,7 +11901,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 5161
+        "pageviews": 5173
        },
        "title": "El Cl\u00e1sico",
        "title_with_featured": "El Cl\u00e1sico (Ft.\u00a0Ele\u00a0A (CHE) & Gu\u00e8)",
@@ -12021,7 +12022,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 44171
+        "pageviews": 44178
        },
        "title": "44 Four\u2019s",
        "title_with_featured": "44 Four's",
@@ -12147,7 +12148,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 573211
+        "pageviews": 573263
        },
        "title": "Solar Power",
        "title_with_featured": "Solar Power",
@@ -12190,7 +12191,7 @@
        "stats": {
         "unreviewed_annotations": 14,
         "hot": false,
-        "pageviews": 28487
+        "pageviews": 28489
        },
        "title": "#TBE The Curse Of Mayweather",
        "title_with_featured": "#TBE The Curse Of Mayweather",
@@ -12367,7 +12368,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 61617
+        "pageviews": 61632
        },
        "title": "I CAN KICK IT",
        "title_with_featured": "I CAN KICK IT (Ft.\u00a0\u200bbbno$)",
@@ -12474,7 +12475,7 @@
        "stats": {
         "unreviewed_annotations": 15,
         "hot": false,
-        "pageviews": 355757
+        "pageviews": 355842
        },
        "title": "November Has Come",
        "title_with_featured": "November Has Come (Ft.\u00a0MF\u00a0DOOM)",
@@ -12528,7 +12529,7 @@
        "stats": {
         "unreviewed_annotations": 5,
         "hot": false,
-        "pageviews": 1017582
+        "pageviews": 1017665
        },
        "title": "Tamale",
        "title_with_featured": "Tamale",
@@ -12571,7 +12572,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 26111
+        "pageviews": 26120
        },
        "title": "Let Me Clear My Throat (Old School Reunion Remix \u201996)",
        "title_with_featured": "Let Me Clear My Throat (Old School Reunion Remix '96) (Ft.\u00a0Biz\u00a0Markie & Doug\u00a0E. Fresh)",
@@ -12634,7 +12635,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 64161
+        "pageviews": 64234
        },
        "title": "Can I Kick It",
        "title_with_featured": "Can I Kick It (Ft.\u00a0Juto)",
@@ -12770,7 +12771,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 66157
+        "pageviews": 66177
        },
        "title": "Rock DJ",
        "title_with_featured": "Rock DJ",
@@ -12855,7 +12856,7 @@
        "stats": {
         "unreviewed_annotations": 3,
         "hot": false,
-        "pageviews": 16447
+        "pageviews": 16450
        },
        "title": "Rock It",
        "title_with_featured": "Rock It",
@@ -12897,7 +12898,7 @@
        "stats": {
         "unreviewed_annotations": 11,
         "hot": false,
-        "pageviews": 83384
+        "pageviews": 83404
        },
        "title": "La La La",
        "title_with_featured": "La La La",
@@ -12940,7 +12941,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 49507
+        "pageviews": 49517
        },
        "title": "Crooklyn",
        "title_with_featured": "Crooklyn",
@@ -12982,7 +12983,7 @@
        "stats": {
         "unreviewed_annotations": 8,
         "hot": false,
-        "pageviews": 24946
+        "pageviews": 24950
        },
        "title": "Oooh",
        "title_with_featured": "Oooh (Ft.\u00a0Redman)",
@@ -13036,7 +13037,7 @@
        "stats": {
         "unreviewed_annotations": 7,
         "hot": false,
-        "pageviews": 11329
+        "pageviews": 11332
        },
        "title": "Pease Porridge",
        "title_with_featured": "Pease Porridge",
@@ -13079,7 +13080,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 211502
+        "pageviews": 211515
        },
        "title": "22 Two\u2019s",
        "title_with_featured": "22 Two's",
@@ -13222,7 +13223,7 @@
        "stats": {
         "unreviewed_annotations": 10,
         "hot": false,
-        "pageviews": 396533
+        "pageviews": 396794
        },
        "title": "Candy Necklace",
        "title_with_featured": "Candy Necklace (Ft.\u00a0Jon\u00a0Batiste)",
@@ -13467,7 +13468,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 16180
+        "pageviews": 16181
        },
        "title": "Can I Kick It? (J. Cole Remix)",
        "title_with_featured": "Can I Kick It? (J. Cole Remix)",
@@ -13658,7 +13659,7 @@
     "unreviewed_annotations": 3,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 332387
+    "pageviews": 332415
    },
    "title": "Check the Rhime",
    "title_with_featured": "Check the Rhime",
@@ -14137,7 +14138,7 @@
          "header_image_url": "https://images.genius.com/50e97f47972ef3bc792015763042c3a8.1000x667x1.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 3831017,
-         "iq": 369642,
+         "iq": 369667,
          "login": "GnarlingtonTX",
          "name": "GnarlingtonTX",
          "role_for_display": "editor",
@@ -14191,7 +14192,7 @@
          "header_image_url": "https://images.genius.com/avatars/medium/981605b56878ef16a812df453300d0fc",
          "human_readable_role_for_display": "Editor",
          "id": 3492882,
-         "iq": 3525346,
+         "iq": 3527402,
          "login": "SmashBeezy",
          "name": "SmashBeezy",
          "role_for_display": "editor",
@@ -14299,7 +14300,7 @@
          "header_image_url": "https://images.rapgenius.com/avatars/medium/c63571eb1a6234a5bffb574474b723b3",
          "human_readable_role_for_display": "Contributor",
          "id": 18461,
-         "iq": 36200,
+         "iq": 36201,
          "login": "OGMyrtleBeach",
          "name": "OGMyrtleBeach",
          "role_for_display": "contributor",
@@ -14407,7 +14408,7 @@
          "header_image_url": "https://filepicker-images.genius.com/hX8SM5VgR1W2ANOizyvY_studio.jpg",
          "human_readable_role_for_display": "Contributor",
          "id": 3357303,
-         "iq": 4502,
+         "iq": 4501,
          "login": "monsieurkeit",
          "name": "monsieurkeit",
          "role_for_display": "contributor",
@@ -14555,7 +14556,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 8602
+        "pageviews": 8606
        },
        "title": "Baby, This Love I Have",
        "title_with_featured": "Baby, This Love I Have",
@@ -14679,7 +14680,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 24085
+        "pageviews": 24090
        },
        "title": "Nobody Beats the Biz",
        "title_with_featured": "Nobody Beats the Biz (Ft.\u00a0TJ\u00a0Swan)",
@@ -15137,7 +15138,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 208682
+        "pageviews": 208760
        },
        "title": "Candy Rain",
        "title_with_featured": "Candy Rain",
@@ -15493,7 +15494,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 7316
+        "pageviews": 7317
        },
        "title": "Flight Tonight",
        "title_with_featured": "Flight Tonight (Ft.\u00a0Sa\u00efan\u00a0Supa Crew)",
@@ -15714,7 +15715,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 9844
+        "pageviews": 9845
        },
        "title": "ALONGWAYTOGO",
        "title_with_featured": "ALONGWAYTOGO",
@@ -15999,7 +16000,7 @@
        "stats": {
         "unreviewed_annotations": 7,
         "hot": false,
-        "pageviews": 6148
+        "pageviews": 6150
        },
        "title": "This Shit Right Here",
        "title_with_featured": "This Shit Right Here (Ft.\u00a0Lil\u00a0Wayne)",
@@ -16108,7 +16109,7 @@
          "is_verified": true,
          "name": "Joey Bada$$",
          "url": "https://genius.com/artists/Joey-bada",
-         "iq": 28439
+         "iq": 28441
         }
        ],
        "primary_artist": {
@@ -16148,7 +16149,7 @@
        "stats": {
         "unreviewed_annotations": 10,
         "hot": false,
-        "pageviews": 10819
+        "pageviews": 10822
        },
        "title": "I Am...",
        "title_with_featured": "I Am...",
@@ -16406,7 +16407,7 @@
        "stats": {
         "unreviewed_annotations": 4,
         "hot": false,
-        "pageviews": 58447
+        "pageviews": 58454
        },
        "title": "1nce Again",
        "title_with_featured": "1nce Again (Ft.\u00a0Tammy\u00a0Lucas)",
@@ -16652,7 +16653,7 @@
     "unreviewed_annotations": 4,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 305617
+    "pageviews": 305635
    },
    "title": "Buggin\u2019 Out",
    "title_with_featured": "Buggin' Out",
@@ -17066,7 +17067,7 @@
          "header_image_url": "https://images.genius.com/50e97f47972ef3bc792015763042c3a8.1000x667x1.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 3831017,
-         "iq": 369642,
+         "iq": 369667,
          "login": "GnarlingtonTX",
          "name": "GnarlingtonTX",
          "role_for_display": "editor",
@@ -17228,7 +17229,7 @@
          "header_image_url": "https://images.rapgenius.com/avatars/medium/c63571eb1a6234a5bffb574474b723b3",
          "human_readable_role_for_display": "Contributor",
          "id": 18461,
-         "iq": 36200,
+         "iq": 36201,
          "login": "OGMyrtleBeach",
          "name": "OGMyrtleBeach",
          "role_for_display": "contributor",
@@ -17423,7 +17424,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 14550
+        "pageviews": 14557
        },
        "title": "WC",
        "title_with_featured": "WC (Ft.\u00a0Urbanse)",
@@ -17607,7 +17608,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 6116
+        "pageviews": 6118
        },
        "title": "Nutshell",
        "title_with_featured": "Nutshell",
@@ -17705,7 +17706,7 @@
        "stats": {
         "unreviewed_annotations": 7,
         "hot": false,
-        "pageviews": 50069
+        "pageviews": 50122
        },
        "title": "Gorilla",
        "title_with_featured": "Gorilla",
@@ -17748,7 +17749,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 10441
+        "pageviews": 10444
        },
        "title": "Come On Baby",
        "title_with_featured": "Come On Baby (Ft.\u00a0JAY-Z)",
@@ -18074,7 +18075,7 @@
     "unreviewed_annotations": 4,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 263762
+    "pageviews": 263828
    },
    "title": "Bonita Applebum",
    "title_with_featured": "Bonita Applebum",
@@ -18573,7 +18574,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/i3qQ4iQtSQ2DKeIBAkJQ.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 29502,
-         "iq": 6230,
+         "iq": 6232,
          "login": "K-Ross9",
          "name": "K-Ross9",
          "role_for_display": "editor",
@@ -18627,7 +18628,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288296_15733_justice.png",
          "human_readable_role_for_display": "Editor",
          "id": 15733,
-         "iq": 81742,
+         "iq": 81744,
          "login": "moshitup",
          "name": "moshitup",
          "role_for_display": "editor",
@@ -18709,7 +18710,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 5403
+        "pageviews": 5404
        },
        "title": "Daylight",
        "title_with_featured": "Daylight",
@@ -19010,7 +19011,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 90792
+        "pageviews": 90800
        },
        "title": "Enough!!",
        "title_with_featured": "Enough!!",
@@ -19051,9 +19052,9 @@
        "song_art_image_url": "https://images.genius.com/a9dfd33d97fbee2fac362befbfb30612.1000x1000x1.jpg",
        "stats": {
         "unreviewed_annotations": 1,
-        "concurrents": 2,
+        "concurrents": 3,
         "hot": false,
-        "pageviews": 1290685
+        "pageviews": 1291864
        },
        "title": "Killing Me Softly",
        "title_with_featured": "Killing Me Softly",
@@ -19446,7 +19447,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 150661
+        "pageviews": 150674
        },
        "title": "I Know",
        "title_with_featured": "I Know (Ft.\u00a0Pharrell\u00a0Williams)",
@@ -19799,7 +19800,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 82191
+        "pageviews": 82216
        },
        "title": "Set Adrift on Memory Bliss",
        "title_with_featured": "Set Adrift on Memory Bliss",
@@ -19921,7 +19922,7 @@
         "is_verified": true,
         "name": "Joey Bada$$",
         "url": "https://genius.com/artists/Joey-bada",
-        "iq": 28439
+        "iq": 28441
        }
       },
       {
@@ -20054,7 +20055,7 @@
        "stats": {
         "unreviewed_annotations": 5,
         "hot": false,
-        "pageviews": 29389
+        "pageviews": 29393
        },
        "title": "Gr\u00fcnt #1",
        "title_with_featured": "Gr\u00fcnt #1 (Ft.\u00a0Ideal\u00a0Jim, Kerou\u00e9, Lomepal & Nekfeu)",
@@ -20248,7 +20249,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 8893
+        "pageviews": 8899
        },
        "title": "Bonita Applebum (Hootie Mix)",
        "title_with_featured": "Bonita Applebum (Hootie Mix)",
@@ -20717,7 +20718,7 @@
     "unreviewed_annotations": 3,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 251774
+    "pageviews": 251794
    },
    "title": "Jazz (We\u2019ve Got)",
    "title_with_featured": "Jazz (We've Got)",
@@ -21254,7 +21255,7 @@
          "header_image_url": "https://images.genius.com/50e97f47972ef3bc792015763042c3a8.1000x667x1.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 3831017,
-         "iq": 369642,
+         "iq": 369667,
          "login": "GnarlingtonTX",
          "name": "GnarlingtonTX",
          "role_for_display": "editor",
@@ -21308,7 +21309,7 @@
          "header_image_url": "https://images.genius.com/avatars/medium/db15625d3b21a9056943578e2a72fb38",
          "human_readable_role_for_display": "Editor",
          "id": 11917,
-         "iq": 99371,
+         "iq": 99375,
          "login": "Curumno",
          "name": "Curumno",
          "role_for_display": "editor",
@@ -21402,7 +21403,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 8405
+        "pageviews": 8408
        },
        "title": "Long Red (Live at Woodstock)",
        "title_with_featured": "Long Red (Live at Woodstock)",
@@ -21705,7 +21706,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 5270
+        "pageviews": 5271
        },
        "title": "Jeep Ass Niguh",
        "title_with_featured": "Jeep Ass Niguh",
@@ -21868,7 +21869,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 6116
+        "pageviews": 6118
        },
        "title": "Nutshell",
        "title_with_featured": "Nutshell",
@@ -21994,7 +21995,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 27763
+        "pageviews": 27768
        },
        "title": "SOL LUNA",
        "title_with_featured": "SOL LUNA",
@@ -22043,7 +22044,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 5914
+        "pageviews": 5919
        },
        "title": "Murder Dem",
        "title_with_featured": "Murder Dem",
@@ -22085,7 +22086,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 447154
+        "pageviews": 447227
        },
        "title": "Light My Fire",
        "title_with_featured": "Light My Fire",
@@ -22262,7 +22263,7 @@
        "stats": {
         "unreviewed_annotations": 4,
         "hot": false,
-        "pageviews": 9637
+        "pageviews": 9641
        },
        "title": "Da Bumble",
        "title_with_featured": "Da Bumble",
@@ -22364,7 +22365,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 5411
+        "pageviews": 5412
        },
        "title": "Clin D\u2019Oeil",
        "title_with_featured": "Clin D\u2019Oeil",
@@ -22723,7 +22724,7 @@
     "unreviewed_annotations": 6,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 238727
+    "pageviews": 238737
    },
    "title": "The Space Program",
    "title_with_featured": "The Space Program",
@@ -23530,7 +23531,7 @@
          "header_image_url": "https://images.genius.com/9980d4ad7fef159fb09f8f4920adc9b2.1000x714x1.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 3355118,
-         "iq": 315865,
+         "iq": 315872,
          "login": "chanhmatt",
          "name": "Matthew Huynh",
          "role_for_display": "editor",
@@ -23584,7 +23585,7 @@
          "header_image_url": "https://images.genius.com/d411654e6e45d9ce1a5178548892d340.562x1000x1.png",
          "human_readable_role_for_display": "Editor",
          "id": 2996174,
-         "iq": 46135,
+         "iq": 46138,
          "login": "UnannotatedUnmastered",
          "name": "Corban",
          "role_for_display": "editor",
@@ -23638,7 +23639,7 @@
          "header_image_url": "https://images.genius.com/f9f913cbd106598a94c9f11c745e0f1d.1000x1000x1.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 352762,
-         "iq": 26009,
+         "iq": 26015,
          "login": "TheMCCrae",
          "name": "MC Crae",
          "role_for_display": "editor",
@@ -23881,7 +23882,7 @@
         "unreviewed_annotations": 0,
         "concurrents": 2,
         "hot": false,
-        "pageviews": 1141247
+        "pageviews": 1142108
        },
        "title": "Thriller",
        "title_with_featured": "Thriller",
@@ -24167,7 +24168,7 @@
     "unreviewed_annotations": 2,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 231449
+    "pageviews": 231481
    },
    "title": "Award Tour",
    "title_with_featured": "Award Tour (Ft.\u00a0Trugoy\u00a0the Dove)",
@@ -24642,7 +24643,7 @@
          "header_image_url": "https://images.genius.com/avatars/medium/981605b56878ef16a812df453300d0fc",
          "human_readable_role_for_display": "Editor",
          "id": 3492882,
-         "iq": 3525346,
+         "iq": 3527402,
          "login": "SmashBeezy",
          "name": "SmashBeezy",
          "role_for_display": "editor",
@@ -24750,7 +24751,7 @@
          "header_image_url": "https://images.rapgenius.com/avatars/medium/b43b456f0950c477955c944da596b969",
          "human_readable_role_for_display": "Editor",
          "id": 10616,
-         "iq": 30465,
+         "iq": 30469,
          "login": "DonRummy",
          "name": "DonRummy",
          "role_for_display": "editor",
@@ -24804,7 +24805,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288296_15733_justice.png",
          "human_readable_role_for_display": "Editor",
          "id": 15733,
-         "iq": 81742,
+         "iq": 81744,
          "login": "moshitup",
          "name": "moshitup",
          "role_for_display": "editor",
@@ -24912,7 +24913,7 @@
          "header_image_url": "https://images.genius.com/b1b1ed204f8d75b0d91663c10dedebfd.225x225x1.jpg",
          "human_readable_role_for_display": "Moderator",
          "id": 22533,
-         "iq": 982586,
+         "iq": 982597,
          "login": "ScopeY",
          "name": "ScopeY",
          "role_for_display": "moderator",
@@ -24966,7 +24967,7 @@
          "header_image_url": "https://images.genius.com/56db404980fd3ed6592eba4314569c81.500x248x22.gif",
          "human_readable_role_for_display": "Editor",
          "id": 1686632,
-         "iq": 144509,
+         "iq": 144516,
          "login": "Lyric-dope",
          "name": "Lyric-dope",
          "role_for_display": "editor",
@@ -25024,7 +25025,7 @@
     "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
     "human_readable_role_for_display": "Staff",
     "id": 54639,
-    "iq": 3060861,
+    "iq": 3061104,
     "login": "WriteNProppa",
     "name": "WriteNProppa",
     "role_for_display": "staff",
@@ -25074,7 +25075,7 @@
     "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
     "human_readable_role_for_display": "Staff",
     "id": 54639,
-    "iq": 3060861,
+    "iq": 3061104,
     "login": "WriteNProppa",
     "name": "WriteNProppa",
     "role_for_display": "staff",
@@ -25228,7 +25229,7 @@
        "stats": {
         "unreviewed_annotations": 6,
         "hot": false,
-        "pageviews": 40939
+        "pageviews": 40967
        },
        "title": "Don\u2019t Walk Away",
        "title_with_featured": "Don't Walk Away",
@@ -25565,7 +25566,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 5682
+        "pageviews": 5684
        },
        "title": "I Am Jean",
        "title_with_featured": "I Am Jean",
@@ -25778,7 +25779,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 126426
+        "pageviews": 126430
        },
        "title": "Common Logic / Midnight Marauder",
        "title_with_featured": "Common Logic / Midnight Marauder",
@@ -25875,7 +25876,7 @@
        "stats": {
         "unreviewed_annotations": 5,
         "hot": false,
-        "pageviews": 5301
+        "pageviews": 5302
        },
        "title": "Fake Neptune",
        "title_with_featured": "Fake Neptune (Ft.\u00a0Buckshot, Louieville\u00a0Sluggah & Steele)",
@@ -25950,7 +25951,7 @@
        "stats": {
         "unreviewed_annotations": 3,
         "hot": false,
-        "pageviews": 12780
+        "pageviews": 12784
        },
        "title": "Ain\u2019t Gon\u2019 Stop",
        "title_with_featured": "Ain't Gon' Stop",
@@ -26172,7 +26173,7 @@
        "stats": {
         "unreviewed_annotations": 4,
         "hot": false,
-        "pageviews": 11878
+        "pageviews": 11879
        },
        "title": "World Tour",
        "title_with_featured": "World Tour (Ft.\u00a0Jazmine\u00a0Sullivan)",
@@ -26316,7 +26317,7 @@
        "stats": {
         "unreviewed_annotations": 5,
         "hot": false,
-        "pageviews": 11430
+        "pageviews": 11433
        },
        "title": "Buddy (Native Tongue Decision)",
        "title_with_featured": "Buddy (Native Tongue Decision) (Ft.\u00a0Jungle\u00a0Brothers, Monie\u00a0Love, Queen\u00a0Latifah & A\u00a0Tribe Called Quest)",
@@ -26470,7 +26471,7 @@
        "stats": {
         "unreviewed_annotations": 15,
         "hot": false,
-        "pageviews": 310683
+        "pageviews": 310704
        },
        "title": "1991",
        "title_with_featured": "1991",
@@ -26554,7 +26555,7 @@
        "stats": {
         "unreviewed_annotations": 3,
         "hot": false,
-        "pageviews": 15913
+        "pageviews": 15912
        },
        "title": "Pyramids",
        "title_with_featured": "Pyramids",
@@ -26597,7 +26598,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 434904
+        "pageviews": 434984
        },
        "title": "The Glory",
        "title_with_featured": "The Glory",
@@ -26639,7 +26640,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 49507
+        "pageviews": 49517
        },
        "title": "Crooklyn",
        "title_with_featured": "Crooklyn",
@@ -26681,7 +26682,7 @@
        "stats": {
         "unreviewed_annotations": 4,
         "hot": false,
-        "pageviews": 10792
+        "pageviews": 10796
        },
        "title": "Don\u2019t Go",
        "title_with_featured": "Don't Go",
@@ -26907,7 +26908,7 @@
     "unreviewed_annotations": 0,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 195613
+    "pageviews": 195636
    },
    "title": "Excursions",
    "title_with_featured": "Excursions",
@@ -27306,7 +27307,7 @@
          "header_image_url": "https://images.genius.com/50e97f47972ef3bc792015763042c3a8.1000x667x1.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 3831017,
-         "iq": 369642,
+         "iq": 369667,
          "login": "GnarlingtonTX",
          "name": "GnarlingtonTX",
          "role_for_display": "editor",
@@ -27360,7 +27361,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288296_15733_justice.png",
          "human_readable_role_for_display": "Editor",
          "id": 15733,
-         "iq": 81742,
+         "iq": 81744,
          "login": "moshitup",
          "name": "moshitup",
          "role_for_display": "editor",
@@ -27414,7 +27415,7 @@
          "header_image_url": "https://images.genius.com/avatars/medium/f1ba6e6a384117b22ce0542051b64e60",
          "human_readable_role_for_display": "Editor",
          "id": 923739,
-         "iq": 103185,
+         "iq": 103193,
          "login": "theKuzG",
          "name": "The Kuz Giacometti",
          "role_for_display": "editor",
@@ -27605,7 +27606,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 5216
+        "pageviews": 5217
        },
        "title": "Time",
        "title_with_featured": "Time",
@@ -28018,7 +28019,7 @@
        "stats": {
         "unreviewed_annotations": 5,
         "hot": false,
-        "pageviews": 12897
+        "pageviews": 12899
        },
        "title": "\u200brapper",
        "title_with_featured": "\u200brapper (Ft.\u00a0Busdriver)",
@@ -28200,7 +28201,7 @@
     "unreviewed_annotations": 1,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 180788
+    "pageviews": 180842
    },
    "title": "Conrad Tokyo",
    "title_with_featured": "Conrad Tokyo (Ft.\u00a0Jack\u00a0White & Kendrick\u00a0Lamar)",
@@ -28225,7 +28226,7 @@
      "is_verified": true,
      "name": "Kendrick Lamar",
      "url": "https://genius.com/artists/Kendrick-lamar",
-     "iq": 56866
+     "iq": 56870
     }
    ],
    "primary_artist": {
@@ -28625,7 +28626,7 @@
        "is_verified": true,
        "name": "Kendrick Lamar",
        "url": "https://genius.com/artists/Kendrick-lamar",
-       "iq": 56866
+       "iq": 56870
       },
       {
        "api_path": "/artists/5117",
@@ -28769,7 +28770,7 @@
          "header_image_url": "https://images.genius.com/56db404980fd3ed6592eba4314569c81.500x248x22.gif",
          "human_readable_role_for_display": "Editor",
          "id": 1686632,
-         "iq": 144509,
+         "iq": 144516,
          "login": "Lyric-dope",
          "name": "Lyric-dope",
          "role_for_display": "editor",
@@ -28823,7 +28824,7 @@
          "header_image_url": "https://images.genius.com/007de1126946f49dd85d12d8d8724906.1000x678x1.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 274616,
-         "iq": 156819,
+         "iq": 156830,
          "login": "MisterM",
          "name": "Mr. Mendola",
          "role_for_display": "editor",
@@ -29037,7 +29038,7 @@
      "is_verified": true,
      "name": "Kendrick Lamar",
      "url": "https://genius.com/artists/Kendrick-lamar",
-     "iq": 56866
+     "iq": 56870
     }
    ],
    "artist": "A Tribe Called Quest",
@@ -29073,7 +29074,7 @@
     "unreviewed_annotations": 4,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 179779
+    "pageviews": 179785
    },
    "title": "Dis Generation",
    "title_with_featured": "Dis Generation (Ft.\u00a0Busta\u00a0Rhymes)",
@@ -29751,7 +29752,7 @@
          "header_image_url": "https://images.genius.com/avatars/medium/be0d100602bc81a6447366365c198086",
          "human_readable_role_for_display": "Contributor",
          "id": 2970932,
-         "iq": 1387,
+         "iq": 1425,
          "login": "vale-smith",
          "name": "vale-smith",
          "role_for_display": "contributor",
@@ -29805,7 +29806,7 @@
          "header_image_url": "https://images.genius.com/d411654e6e45d9ce1a5178548892d340.562x1000x1.png",
          "human_readable_role_for_display": "Editor",
          "id": 2996174,
-         "iq": 46135,
+         "iq": 46138,
          "login": "UnannotatedUnmastered",
          "name": "Corban",
          "role_for_display": "editor",
@@ -29859,7 +29860,7 @@
          "header_image_url": "https://images.rapgenius.com/avatars/medium/3ec9c16110be135c3f6549576470c048",
          "human_readable_role_for_display": "Editor",
          "id": 337771,
-         "iq": 213646,
+         "iq": 213651,
          "login": "Souldier77",
          "name": "Souldier77",
          "role_for_display": "editor",
@@ -29967,7 +29968,7 @@
          "header_image_url": "https://images.genius.com/e372f40ee0a6d090ffd11b4c5518a5a9.1000x370x1.jpg",
          "human_readable_role_for_display": "Moderator",
          "id": 1603328,
-         "iq": 410661,
+         "iq": 410695,
          "login": "kingkillmonger",
          "name": "\u029e|a\u00e7e|w\u0153|k",
          "role_for_display": "moderator",
@@ -30033,7 +30034,7 @@
         "header_image_url": "https://images.genius.com/7fb2bf040b5378478cc5ff81f762ba3e.1000x613x1.jpg",
         "human_readable_role_for_display": "Staff",
         "id": 271096,
-        "iq": 490528,
+        "iq": 490562,
         "login": "Empath",
         "name": "Colby Handy",
         "role_for_display": "staff",
@@ -30168,7 +30169,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 225049
+        "pageviews": 225107
        },
        "title": "Pass the Dutchie",
        "title_with_featured": "Pass the Dutchie",
@@ -31077,7 +31078,7 @@
          "header_image_url": "https://images.rapgenius.com/avatars/medium/23df6e3b7d3b7e2b5fe7f68421f50b73",
          "human_readable_role_for_display": "Editor",
          "id": 271026,
-         "iq": 60201,
+         "iq": 60203,
          "login": "LewEG",
          "name": "LewEG",
          "role_for_display": "editor",
@@ -31290,7 +31291,7 @@
        "stats": {
         "unreviewed_annotations": 7,
         "hot": false,
-        "pageviews": 5582
+        "pageviews": 5583
        },
        "title": "Eastside LB",
        "title_with_featured": "Eastside LB (Ft.\u00a0Traci\u00a0Nelson & Warren\u00a0G)",
@@ -31395,7 +31396,7 @@
        "stats": {
         "unreviewed_annotations": 5,
         "hot": false,
-        "pageviews": 10234
+        "pageviews": 10235
        },
        "title": "Sindrome",
        "title_with_featured": "Sindrome (Ft.\u00a0DJ\u00a0Inesha & Esa)",
@@ -31628,7 +31629,7 @@
        "stats": {
         "unreviewed_annotations": 4,
         "hot": false,
-        "pageviews": 7395
+        "pageviews": 7396
        },
        "title": "Love @ 1st Sight",
        "title_with_featured": "Love @ 1st Sight (Ft.\u00a0Method\u00a0Man)",
@@ -31682,7 +31683,7 @@
        "stats": {
         "unreviewed_annotations": 6,
         "hot": false,
-        "pageviews": 8785
+        "pageviews": 8789
        },
        "title": "I Ain\u2019t Havin\u2019 That",
        "title_with_featured": "I Ain't Havin' That (Ft.\u00a0Doc\u00a0Holiday & Starang\u00a0Wondah)",
@@ -31752,7 +31753,7 @@
        "stats": {
         "unreviewed_annotations": 3,
         "hot": false,
-        "pageviews": 40668
+        "pageviews": 40675
        },
        "title": "Push It Along",
        "title_with_featured": "Push It Along",
@@ -31843,7 +31844,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 238430
+        "pageviews": 238440
        },
        "title": "Pain",
        "title_with_featured": "Pain (Ft.\u00a0Future)",
@@ -31996,7 +31997,7 @@
     "unreviewed_annotations": 2,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 151340
+    "pageviews": 151351
    },
    "title": "The Donald",
    "title_with_featured": "The Donald (Ft.\u00a0Busta\u00a0Rhymes & Katia\u00a0Cadet)",
@@ -32576,7 +32577,7 @@
          "header_image_url": "https://images.genius.com/d411654e6e45d9ce1a5178548892d340.562x1000x1.png",
          "human_readable_role_for_display": "Editor",
          "id": 2996174,
-         "iq": 46135,
+         "iq": 46138,
          "login": "UnannotatedUnmastered",
          "name": "Corban",
          "role_for_display": "editor",
@@ -32684,7 +32685,7 @@
          "header_image_url": "https://images.genius.com/5a7798fcc97e18adbf7eda86ff810dcd.1000x750x1.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 1665376,
-         "iq": 914175,
+         "iq": 914177,
          "login": "poeticimmunity",
          "name": "\u200bpoeticimmunity",
          "role_for_display": "editor",
@@ -33046,7 +33047,7 @@
     "unreviewed_annotations": 3,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 144426
+    "pageviews": 144446
    },
    "title": "Find a Way",
    "title_with_featured": "Find a Way",
@@ -33574,7 +33575,7 @@
          "header_image_url": "https://filepicker-images.genius.com/hv718skuq7n",
          "human_readable_role_for_display": "Contributor",
          "id": 6046920,
-         "iq": 513,
+         "iq": 514,
          "login": "Implausible-Brethren",
          "name": "Implausible-Brethren",
          "role_for_display": "contributor",
@@ -33628,7 +33629,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/zmkfqkztReGZ0zuiuLXp.png",
          "human_readable_role_for_display": "Editor",
          "id": 150910,
-         "iq": 158122,
+         "iq": 158125,
          "login": "Spinelli",
          "name": "Spinelli",
          "role_for_display": "editor",
@@ -33768,7 +33769,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 5525
+        "pageviews": 5529
        },
        "title": "Technova (L\u00e1 Em Copacabana)",
        "title_with_featured": "Technova (L\u00e1 Em Copacabana)",
@@ -34031,7 +34032,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 20857
+        "pageviews": 20867
        },
        "title": "Funkin\u2019 for Jamaica (N.Y.)",
        "title_with_featured": "Funkin' for Jamaica (N.Y.) (Ft.\u00a0Toni\u00a0Smith)",
@@ -34084,7 +34085,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 82917
+        "pageviews": 82933
        },
        "title": "Got \u2019Til It\u2019s Gone",
        "title_with_featured": "Got \u2019Til It\u2019s Gone (Ft.\u00a0Joni\u00a0Mitchell & Q-Tip)",
@@ -34404,7 +34405,7 @@
     "unreviewed_annotations": 9,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 140925
+    "pageviews": 140936
    },
    "title": "Kids...",
    "title_with_featured": "Kids... (Ft.\u00a0Andr\u00e9\u00a03000)",
@@ -34984,7 +34985,7 @@
          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1703267156",
          "human_readable_role_for_display": "Contributor",
          "id": 7819661,
-         "iq": 37628,
+         "iq": 37637,
          "login": "gone_4nlot_599d",
          "name": "gone_4nlot_599d",
          "role_for_display": "contributor",
@@ -35293,7 +35294,7 @@
     "unreviewed_annotations": 2,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 134581
+    "pageviews": 134592
    },
    "title": "Oh My God",
    "title_with_featured": "Oh My God (Ft.\u00a0Busta\u00a0Rhymes)",
@@ -35719,7 +35720,7 @@
          "header_image_url": "https://images.rapgenius.com/avatars/medium/6710b4139eed1d4f04093d2775c6d50e",
          "human_readable_role_for_display": "Contributor",
          "id": 120957,
-         "iq": 112078,
+         "iq": 112114,
          "login": "BigKritTop5WorstRapperEver",
          "name": "BBD$",
          "role_for_display": "contributor",
@@ -35777,7 +35778,7 @@
     "header_image_url": "https://filepicker-images.genius.com/l1pegbzlvms",
     "human_readable_role_for_display": "Staff",
     "id": 2976672,
-    "iq": 397712,
+    "iq": 397760,
     "login": "Gary",
     "name": "Gary",
     "role_for_display": "staff",
@@ -35827,7 +35828,7 @@
     "header_image_url": "https://filepicker-images.genius.com/l1pegbzlvms",
     "human_readable_role_for_display": "Staff",
     "id": 2976672,
-    "iq": 397712,
+    "iq": 397760,
     "login": "Gary",
     "name": "Gary",
     "role_for_display": "staff",
@@ -36129,7 +36130,7 @@
        "stats": {
         "unreviewed_annotations": 18,
         "hot": false,
-        "pageviews": 5810
+        "pageviews": 5812
        },
        "title": "DAAAM!",
        "title_with_featured": "DAAAM!",
@@ -36398,7 +36399,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 10783
+        "pageviews": 10796
        },
        "title": "Intro-Lude",
        "title_with_featured": "Intro-Lude (Ft.\u00a0Phife\u00a0Dawg)",
@@ -36572,7 +36573,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 6116
+        "pageviews": 6118
        },
        "title": "Nutshell",
        "title_with_featured": "Nutshell",
@@ -36656,7 +36657,7 @@
        "stats": {
         "unreviewed_annotations": 3,
         "hot": false,
-        "pageviews": 58498
+        "pageviews": 58503
        },
        "title": "God Lives Through",
        "title_with_featured": "God Lives Through",
@@ -36837,7 +36838,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 640609
+        "pageviews": 640669
        },
        "title": "On God",
        "title_with_featured": "On God",
@@ -37009,7 +37010,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 5114
+        "pageviews": 5116
        },
        "title": "Oh My God (Remix)",
        "title_with_featured": "Oh My God (Remix)",
@@ -37125,7 +37126,7 @@
     "unreviewed_annotations": 2,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 133961
+    "pageviews": 133980
    },
    "title": "Solid Wall of Sound",
    "title_with_featured": "Solid Wall of Sound (Ft.\u00a0Busta\u00a0Rhymes, Elton\u00a0John & Jack\u00a0White)",
@@ -37816,7 +37817,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/uyVGPGqTtWHlp6RRh1Su.jpg",
          "human_readable_role_for_display": "Contributor",
          "id": 104616,
-         "iq": 1663,
+         "iq": 1836,
          "login": "regGQ",
          "name": "regGQ",
          "role_for_display": "contributor",
@@ -38092,8 +38093,9 @@
        "song_art_image_url": "https://images.genius.com/93fe83fb54fccff3a2adfdd3da687209.500x500x1.jpg",
        "stats": {
         "unreviewed_annotations": 0,
+        "concurrents": 3,
         "hot": false,
-        "pageviews": 1370500
+        "pageviews": 1371882
        },
        "title": "Bennie and the Jets",
        "title_with_featured": "Bennie and the Jets",
@@ -38379,7 +38381,7 @@
     "unreviewed_annotations": 3,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 124304
+    "pageviews": 124324
    },
    "title": "Butter",
    "title_with_featured": "Butter",
@@ -38778,7 +38780,7 @@
          "header_image_url": "https://images.genius.com/50e97f47972ef3bc792015763042c3a8.1000x667x1.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 3831017,
-         "iq": 369642,
+         "iq": 369667,
          "login": "GnarlingtonTX",
          "name": "GnarlingtonTX",
          "role_for_display": "editor",
@@ -39068,8 +39070,9 @@
        "song_art_image_url": "https://images.genius.com/721a6eb4939df5dbc8b06f49be4dbce5.440x381x1.jpg",
        "stats": {
         "unreviewed_annotations": 0,
+        "concurrents": 2,
         "hot": false,
-        "pageviews": 435442
+        "pageviews": 435560
        },
        "title": "What These Bitches Want",
        "title_with_featured": "What These Bitches Want (Ft.\u00a0Sisq\u00f3)",
