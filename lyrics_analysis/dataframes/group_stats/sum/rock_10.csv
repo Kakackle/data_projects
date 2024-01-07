@@ -1,11 +1,11 @@
-Artist,love,money,violence,drugs,gendered,featured_count,producer_count,writer_count
-Black Sabbath,38,3,14,1,399,0,21,79
-Deep Purple,52,7,11,2,528,0,24,84
-Foo Fighters,29,0,7,0,660,0,30,76
-Fugazi,0,11,22,0,394,0,35,23
-Led Zeppelin,157,8,1,0,545,0,20,55
-Nirvana,18,0,33,0,517,0,22,23
-Queens of the Stone Age,34,4,4,13,354,5,53,61
-The Rolling Stones,41,4,31,2,510,0,26,41
-The Strokes,21,2,11,0,455,0,22,65
-The White Stripes,57,7,11,0,711,1,20,23
+,Artist,love,money,violence,drugs,gendered,sadness,joy,yes,no,vocab,featured_count,producer_count,writer_count,gender
+0,Black Sabbath,38,3,14,1,399,6,12,13,93,1941,0,21,79,male
+1,Deep Purple,52,7,11,2,528,1,15,10,136,1692,0,24,84,male
+2,Foo Fighters,29,0,7,0,660,6,13,13,129,1631,0,30,76,male
+3,Fugazi,0,11,22,0,394,3,1,12,139,1486,0,35,23,male
+4,Led Zeppelin,157,8,1,0,545,7,16,18,146,2227,0,20,55,male
+5,Nirvana,18,0,33,0,517,3,16,6,134,1395,0,22,23,male
+6,Queens of the Stone Age,34,4,4,13,354,1,7,9,105,1944,5,53,61,male
+7,The Rolling Stones,41,4,31,2,510,4,8,9,135,1873,0,26,41,male
+8,The Strokes,21,2,11,0,455,2,5,12,168,2187,0,22,65,male
+9,The White Stripes,57,7,11,0,711,5,11,7,168,2250,1,20,23,male
