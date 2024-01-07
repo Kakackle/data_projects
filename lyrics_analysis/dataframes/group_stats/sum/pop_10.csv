@@ -1,11 +1,11 @@
-,Artist,love,money,violence,drugs,gendered,sadness,joy,yes,no,vocab,featured_count,producer_count,writer_count,gender
-0,Aaliyah,239,30,20,0,648,6,28,21,278,2457,10,26,56,female
-1,Beyoncé,192,27,8,0,957,53,9,16,175,3059,6,57,127,female
-2,Britney Spears,153,0,19,0,760,18,20,7,193,2272,2,31,66,female
-3,Carly Rae Jepsen,198,13,31,0,807,9,3,15,192,2043,0,29,82,female
-4,Charli XCX,202,18,3,1,697,23,16,8,163,2705,19,37,104,female
-5,Dua Lipa,133,12,4,5,669,27,4,19,250,2031,1,42,84,female
-6,Madonna,108,5,8,0,693,58,13,16,170,2321,6,40,58,female
-7,Michael Jackson,179,15,15,0,1159,10,11,20,385,2673,0,35,32,male
-8,Olivia Rodrigo,66,4,18,3,684,24,36,15,164,2660,0,29,46,female
-9,Taylor Swift,103,9,33,0,775,7,19,18,176,3108,3,43,51,female
+,Artist,love,money,violence,drugs,gendered,sadness,joy,yes,no,vocab,featured_count,producer_count,writer_count,gender,genre
+0,Aaliyah,239,30,20,0,648,6,28,21,278,2457,10,26,56,female,pop
+1,Beyoncé,192,27,8,0,957,53,9,16,175,3059,6,57,127,female,pop
+2,Britney Spears,153,0,19,0,760,18,20,7,193,2272,2,31,66,female,pop
+3,Carly Rae Jepsen,198,13,31,0,807,9,3,15,192,2043,0,29,82,female,pop
+4,Charli XCX,202,18,3,1,697,23,16,8,163,2705,19,37,104,female,pop
+5,Dua Lipa,133,12,4,5,669,27,4,19,250,2031,1,42,84,female,pop
+6,Madonna,108,5,8,0,693,58,13,16,170,2321,6,40,58,female,pop
+7,Michael Jackson,179,15,15,0,1159,10,11,20,385,2673,0,35,32,male,pop
+8,Olivia Rodrigo,66,4,18,3,684,24,36,15,164,2660,0,29,46,female,pop
+9,Taylor Swift,103,9,33,0,775,7,19,18,176,3108,3,43,51,female,pop
