@@ -44,8 +44,8 @@ for soul:
 
 ### Once we have this data:
 
-1. we could choose certain words from imagination, such as 'love', 'money', 'shoot', 'bitch', 'drugs'
-2. or better yet - topical groups of words:
+1. ~~we could choose certain words from imagination, such as 'love', 'money', 'shoot', 'bitch', 'drugs'~~
+2. ~~or better yet - topical groups of words:~~
     1. firstly by some artificial groupings, eg:
         * for 'love':
             * 'love', 'lover', 'honey', 'babygirl', 'shorty'
@@ -59,6 +59,7 @@ for soul:
             * 'drugs', 'weed', 'kush', 'mary jane', 'perc', 'cocaine', 'molly', ''
         * for 'bitch':
             * 'bitch', 'bitches', 'whore', 'skank', 'tramp'
+    ~~
     2. somehow utilize word embeddings / vectors that could help with identifying word relations / closely related words, eg. start with 'love' and count words with vectors within a short distance
 
 3. then make comparisons between artists, genres, years etc. How? Specifically:
@@ -69,14 +70,13 @@ for soul:
     * PER YEAR within genre
     * PER YEAR within everything
     * maybe something with months
+    * maybe use the pageviews data
 
-4. Use the year data for something
-5. Use the pageviews data for something
-6. Maybe try to get count of ['writer_artists'] and/or ['producer_artists'], ['featured_artists'], ['']
+6. ~~Maybe try to get count of ['writer_artists'] and/or ['producer_artists'], ['featured_artists'], ['']~~
 
 7. Try to get named entity recognition counts from lyrics
 8. Maybe try to get counts of parts of speech, eg whether some artists use more verbs, nouns etc
-9. Data like 'male' and 'female' would have to be included manually? or if we could find some altrnative source of data like wiki - then compare the above things grouped by gender
+9. ~~Data like 'male' and 'female' would have to be included manually? or if we could find some altrnative source of data like wiki - then compare the above things grouped by gender~~
 10. try to get some sentiment classification? agression, sadness etc - then you could compare those stats plus compare eg. if a song has many mentions of X is it more/less likely to be sad or w/e
 11. compare correlations between word / word group ocurrences. Eg if 'love' is mentioned are other things likely to be mentioned as well
 12. find some outliers
