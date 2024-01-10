@@ -1,7 +1,25 @@
 
-3. TODO: znajdz zestaw popularnych english stopwords
+3. ~~znajdz zestaw popularnych english stopwords~~
+
+usuwanie stopwords:
+```
+# Import library
+import spacy
+# Load the language model
+nlp = spacy.load("en_core_web_sm")
+
+# Process the text
+text = "This is a sample sentence with some stop words"
+doc = nlp(text)
+
+# Remove stop words
+filtered_tokens = [token.text for token in doc if not token.is_stop]
+```
 
 4. TODO: 'the frequency of a word or phrase in a text or corpus, its distribution, central tendency, and dispersion, correlation, co-occurrence, or collocation'
+
+finding most common n-grams with nltk and counter:
+https://stackoverflow.com/questions/42373747/is-there-a-more-efficient-way-to-find-most-common-n-grams
 
 7. TODO: cos z jakimis outliers albo jakos wykminic czy ktorys gatunek uzywa jakiegos slowa duzo wiecej niz inne
 
