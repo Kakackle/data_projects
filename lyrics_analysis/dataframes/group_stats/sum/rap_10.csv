@@ -1,11 +1,11 @@
-,Artist,love,money,violence,drugs,gendered,sadness,joy,yes,no,vocab,featured_count,producer_count,writer_count,gender,genre
-0,2Pac,104,61,79,10,1816,15,35,44,387,6108,21,24,104,male,rap
-1,A Tribe Called Quest,43,58,39,5,1487,10,14,62,294,5262,12,33,85,male,rap
-2,Eminem,92,22,100,5,1802,24,45,19,435,7543,9,44,94,male,rap
-3,Ice Cube,31,78,58,22,1510,17,16,8,245,5250,10,29,78,male,rap
-4,JAY-Z,80,47,42,8,1107,10,45,23,279,5245,11,34,110,male,rap
-5,Kanye West,77,80,26,7,1386,18,6,33,326,4713,22,108,252,male,rap
-6,Kendrick Lamar,106,80,135,13,1599,18,32,27,326,6271,8,51,112,male,rap
-7,MF DOOM,33,58,52,6,1752,11,27,24,201,6911,9,20,32,male,rap
-8,Nas,108,64,81,20,1634,61,18,15,337,6814,10,26,94,male,rap
-9,Yasiin Bey,116,86,37,1,1720,12,23,35,322,6323,7,27,49,male,rap
+Artist,manual_love_count,manual_money_count,manual_violence_count,manual_drugs_count,manual_gendered_count,manual_sadness_count,manual_joy_count,manual_yes_count,manual_no_count,unique_words,total_words,featured_count,producer_count,writer_count,manual_love_word_percent,manual_money_word_percent,manual_violence_word_percent,manual_drugs_word_percent,manual_gendered_word_percent,manual_sadness_word_percent,manual_joy_word_percent,manual_yes_word_percent,manual_no_word_percent
+2Pac,97,55,74,8,1701,15,35,40,362,5700,15110,21,24,104,0.642,0.364,0.49,0.053,11.257,0.099,0.232,0.265,2.396
+A Tribe Called Quest,41,57,38,5,1376,8,13,63,275,4885,12030,12,33,85,0.341,0.474,0.316,0.042,11.438,0.067,0.108,0.524,2.286
+Eminem,91,20,87,5,1616,24,44,18,389,6815,17289,9,44,94,0.526,0.116,0.503,0.029,9.347,0.139,0.254,0.104,2.25
+Ice Cube,30,77,57,21,1469,16,16,8,234,5031,12292,10,29,78,0.244,0.626,0.464,0.171,11.951,0.13,0.13,0.065,1.904
+JAY-Z,80,45,39,8,1066,10,45,22,267,5075,11957,11,34,110,0.669,0.376,0.326,0.067,8.915,0.084,0.376,0.184,2.233
+Kanye West,77,80,26,7,1355,18,6,22,312,4589,12304,22,108,252,0.626,0.65,0.211,0.057,11.013,0.146,0.049,0.179,2.536
+Kendrick Lamar,106,80,135,13,1599,18,32,27,326,6243,17236,8,51,112,0.615,0.464,0.783,0.075,9.277,0.104,0.186,0.157,1.891
+MF DOOM,31,52,44,6,1589,11,25,21,181,6230,11205,9,20,32,0.277,0.464,0.393,0.054,14.181,0.098,0.223,0.187,1.615
+Nas,107,58,76,19,1554,60,17,16,311,6364,14089,10,26,94,0.759,0.412,0.539,0.135,11.03,0.426,0.121,0.114,2.207
+Yasiin Bey,112,84,36,1,1687,11,23,34,313,6105,14181,7,27,49,0.79,0.592,0.254,0.007,11.896,0.078,0.162,0.24,2.207

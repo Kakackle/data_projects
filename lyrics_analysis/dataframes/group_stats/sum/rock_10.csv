@@ -1,11 +1,11 @@
-,Artist,love,money,violence,drugs,gendered,sadness,joy,yes,no,vocab,featured_count,producer_count,writer_count,gender,genre
-0,Black Sabbath,38,3,14,1,399,6,12,13,93,1941,0,21,79,male,rock
-1,Deep Purple,52,7,11,2,528,1,15,10,136,1692,0,24,84,male,rock
-2,Foo Fighters,29,0,7,0,660,6,13,13,129,1631,0,30,76,male,rock
-3,Fugazi,0,11,22,0,394,3,1,12,139,1486,0,35,23,male,rock
-4,Led Zeppelin,157,8,1,0,545,7,16,18,146,2227,0,20,55,male,rock
-5,Nirvana,18,0,33,0,517,3,16,6,134,1395,0,22,23,male,rock
-6,Queens of the Stone Age,34,4,4,13,354,1,7,9,105,1944,5,53,61,male,rock
-7,The Rolling Stones,41,4,31,2,510,4,8,9,135,1873,0,26,41,male,rock
-8,The Strokes,21,2,11,0,455,2,5,12,168,2187,0,22,65,male,rock
-9,The White Stripes,57,7,11,0,711,5,11,7,168,2250,1,20,23,male,rock
+Artist,manual_love_count,manual_money_count,manual_violence_count,manual_drugs_count,manual_gendered_count,manual_sadness_count,manual_joy_count,manual_yes_count,manual_no_count,unique_words,total_words,featured_count,producer_count,writer_count,manual_love_word_percent,manual_money_word_percent,manual_violence_word_percent,manual_drugs_word_percent,manual_gendered_word_percent,manual_sadness_word_percent,manual_joy_word_percent,manual_yes_word_percent,manual_no_word_percent
+Black Sabbath,38,3,14,1,395,6,12,13,92,1879,3458,0,21,79,1.099,0.087,0.405,0.029,11.423,0.174,0.347,0.376,2.66
+Deep Purple,52,7,11,2,522,1,15,10,135,1614,3892,0,24,84,1.336,0.18,0.283,0.051,13.412,0.026,0.385,0.257,3.469
+Foo Fighters,29,0,7,0,655,6,13,13,129,1566,5516,0,30,76,0.526,0.0,0.127,0.0,11.875,0.109,0.236,0.236,2.339
+Fugazi,0,10,21,0,390,3,1,12,138,1412,3715,0,35,23,0.0,0.269,0.565,0.0,10.498,0.081,0.027,0.323,3.715
+Led Zeppelin,154,8,1,0,537,6,16,18,145,2143,5012,0,20,55,3.073,0.16,0.02,0.0,10.714,0.12,0.319,0.359,2.893
+Nirvana,18,0,33,0,513,3,16,6,133,1367,4508,0,22,23,0.399,0.0,0.732,0.0,11.38,0.067,0.355,0.133,2.95
+Queens of the Stone Age,34,3,4,13,345,1,7,9,103,1852,3999,5,53,61,0.85,0.075,0.1,0.325,8.627,0.025,0.175,0.225,2.576
+The Rolling Stones,41,4,31,2,503,4,8,9,133,1794,4965,0,26,41,0.826,0.081,0.624,0.04,10.131,0.081,0.161,0.181,2.679
+The Strokes,21,2,11,0,454,2,5,12,168,2122,4818,0,22,65,0.436,0.042,0.228,0.0,9.423,0.042,0.104,0.249,3.487
+The White Stripes,55,7,10,0,697,5,11,7,165,2165,5165,1,20,23,1.065,0.136,0.194,0.0,13.495,0.097,0.213,0.136,3.195
