@@ -30,4 +30,5 @@ Possible ways to answer: get the topic occurence counts / percentages and then:
 
 7. **Quenstion**: Are there any common phrases, catchphrases etc (n-grams) for artists, genres etc
 
-8. 
+8. **Question:** Correlation matrix
+
