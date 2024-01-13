@@ -1,0 +1,41 @@
+,Artist,genre,gender,x,y,kmeans
+0,Aaliyah,pop,female,-7.921661,10.43905,6
+1,Beyoncé,pop,female,-2.611603,4.2888336,2
+2,Britney Spears,pop,female,-11.383475,0.18035129,0
+3,Carly Rae Jepsen,pop,female,-1.5507973,-4.097653,4
+4,Charli XCX,pop,female,-6.330024,-0.86205673,0
+5,Dua Lipa,pop,female,-8.3593445,-1.089862,0
+6,Madonna,pop,female,4.1291404,0.83248425,7
+7,Michael Jackson,pop,male,7.4468226,0.9727694,7
+8,Olivia Rodrigo,pop,female,-3.0884674,-1.7050507,3
+9,Taylor Swift,pop,female,-0.94833213,-0.89189214,3
+10,2Pac,rap,male,-6.3513,5.3627415,2
+11,A Tribe Called Quest,rap,male,0.9096445,7.057746,5
+12,Eminem,rap,male,-13.140735,8.34808,6
+13,Ice Cube,rap,male,-4.892487,5.812203,2
+14,JAY-Z,rap,male,-1.3344901,10.525818,5
+15,Kanye West,rap,male,-1.9319534,13.25431,5
+16,Kendrick Lamar,rap,male,-2.1123207,6.2660465,2
+17,MF DOOM,rap,male,-8.678102,6.5295124,6
+18,Nas,rap,male,-5.982793,8.372143,2
+19,Yasiin Bey,rap,male,-11.57369,8.761269,6
+20,Black Sabbath,rock,male,-12.497999,-1.3259109,0
+21,Deep Purple,rock,male,-5.2405014,-2.6902583,3
+22,Foo Fighters,rock,male,4.9695063,-0.33422086,7
+23,Fugazi,rock,male,-11.263276,-2.7858033,0
+24,Led Zeppelin,rock,male,3.0264049,-1.8882661,7
+25,Nirvana,rock,male,0.15622763,10.637495,5
+26,Queens of the Stone Age,rock,male,-0.73188114,-6.416037,4
+27,The Rolling Stones,rock,male,-7.1596475,2.8133059,0
+28,The Strokes,rock,male,-13.118568,0.57747006,0
+29,The White Stripes,rock,male,-10.116501,4.3087363,6
+30,Al Green,soul,male,7.4119534,-8.230946,1
+31,Aretha Franklin,soul,female,6.738372,-10.080254,1
+32,Clarence Carter,soul,male,-9.425804,-5.248146,0
+33,Curtis Mayfield,soul,male,-2.9913847,7.9291525,2
+34,Marvin Gaye,soul,male,-7.6057034,0.93447447,0
+35,Minnie Riperton,soul,female,7.758249,-6.649832,1
+36,Nina Simone,soul,female,9.629931,-4.656446,1
+37,Otis Redding,soul,male,-0.5449517,-9.189702,4
+38,Sam Cooke,soul,male,-5.67967,-6.336609,4
+39,Stevie Wonder,soul,male,7.649556,-4.801894,1
