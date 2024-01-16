@@ -24,13 +24,13 @@ Possible ways to answer: get the topic occurence counts / percentages and then:
 
 6. **Quenstion**: Are there any common phrases, catchphrases etc (n-grams) for artists, genres etc
 
-========== tu zrobione =========
-
 7. **Question**: compare vocabulary sizes
 * per year
 * per artist
 * per genre
 * etc
+
+========== tu zrobione =========
 
 8. **Question:** Correlation matrix
 
