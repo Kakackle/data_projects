@@ -17,20 +17,20 @@ Possible ways to answer: get the topic occurence counts / percentages and then:
 
 3. **Question**: Are some topics more common amongst male or female artists
 
-========== tu zrobione =========
-
 4. **Question**: Industry medatada: compare average producer, writer and featured counts between artists, genres etc
 
 5. **Question**: Were there any popular years for specific topic?
 * scatters between year on x  and topic on y or smth for genres, artists and so on
 
-6. **Question**: compare vocabulary sizes
+6. **Quenstion**: Are there any common phrases, catchphrases etc (n-grams) for artists, genres etc
+
+========== tu zrobione =========
+
+7. **Question**: compare vocabulary sizes
 * per year
 * per artist
 * per genre
 * etc
-
-7. **Quenstion**: Are there any common phrases, catchphrases etc (n-grams) for artists, genres etc
 
 8. **Question:** Correlation matrix
 
