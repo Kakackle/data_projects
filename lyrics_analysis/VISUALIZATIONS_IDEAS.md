@@ -15,6 +15,8 @@ Possible ways to answer: get the topic occurence counts / percentages and then:
     - colored by genre
     - colored by gender
 
+============ done up to here =========
+
 3. **Question**: Are some topics more common amongst male or female artists
 
 4. **Question**: Industry medatada: compare average producer, writer and featured counts between artists, genres etc
