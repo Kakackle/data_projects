@@ -1,6 +1,6 @@
 ### IDEAS of data / columns to compare / questions to answer
-1. Which are the countries with highest and lowest laddr scores
-2. Which regions of the world have highest/lowest scores / any trends?
+[ x ] Which are the countries with highest and lowest laddr scores
+[x] Which regions of the world have highest/lowest scores / any trends?
 3. Visualize ladder with whiskers and standard error (boxplot)
 4. GDP per capita vs ladder
 5. Social support, freedom, generosity, corruption perception vs ladder [user's choice]
