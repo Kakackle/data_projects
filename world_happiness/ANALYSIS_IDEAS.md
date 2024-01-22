@@ -21,19 +21,19 @@
 18. [x] albo nalozone kilka na siebie z roznych krajow
 19. [x] albo z kilku lat dla jednego, w/e
 
-20. Parallel coordinates zamiast radar - to samo tylko ze kilka linii naraz pokazuje
+20. [x] Parallel coordinates zamiast radar - to samo tylko ze kilka linii naraz pokazuje
 
-21. Arc albo jakis gridplot do pokazywania jaka czesc krajow spelnia jakis warunek, ma np ladder powyzej jakiegos progu, forestatnion powyzej, rozklad services/agriculture/industry itd
+21. [x] Arc albo jakis gridplot do pokazywania jaka czesc krajow spelnia jakis warunek, ma np ladder powyzej jakiegos progu, forestatnion powyzej, rozklad services/agriculture/industry itd
 
-22. jakies porownanie z latitude i longitude
+22. [x] jakies porownanie z latitude i longitude
 
-23. choropleth / pokazanie na mapie kolorkami colorscale ladder, life expectancy i cokolwiek chcesz wlasciwie / scaled cartogram
-24. albo zgrupowane po rejonach i wklejone na mape jako bubble z rozmairem zaleznym od jakiejs kolumny
-25. 
+23. [x] choropleth / pokazanie na mapie kolorkami colorscale ladder, life expectancy i cokolwiek chcesz wlasciwie / scaled cartogram
+24. [x] albo zgrupowane po rejonach i wklejone na mape jako bubble z rozmairem zaleznym od jakiejs kolumny
+25. [x] przejdz do na przestrzeni lat
 
 ### Idee z wykorzystaniem danych na przestrzeni lat
-1. Linie tych miar na przestrzeni lat
-2. Bar + line - umozliwia pokazanie dwoch zmiennych naraz na przestrzeni czasu pieknie
+1. [x] Linie tych miar na przestrzeni lat
+2. [x] Bar + line - umozliwia pokazanie dwoch zmiennych naraz na przestrzeni czasu pieknie
 
 
 ### Prediction
